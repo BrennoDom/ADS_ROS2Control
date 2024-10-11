@@ -1,0 +1,7 @@
+<library path="ads_hardware">
+    <class name="ads_hardware/ADSHardware"
+            type="ads_hardware::ADSHardware"
+            base_class_type="hardware_interface::SystemInterface">
+            <description></description>
+    </class>
+</library>
